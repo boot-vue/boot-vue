@@ -21,6 +21,8 @@ PM (Project Manager) 🚀
 
 Micro Services Architecture, DevOps, CICD, BackEnd, FrontEnd... 🤓
 
+Open Source Project Maintainer [vbeats](https://github.com/vbeats) 🍉
+
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
 ![Node](https://img.shields.io/badge/-Node-339933?logo=Node.js&logoColor=white)
