@@ -18,6 +18,8 @@
 Full Stack Developer 🍒
 
 PM (Project Manager) 🚀
+  
+PM (Product Manager) 🍄
 
 Micro Services Architecture, DevOps, CICD, BackEnd, FrontEnd... 🤓
 
