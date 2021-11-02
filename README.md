@@ -36,6 +36,7 @@ Open Source Project Maintainer [vbeats](https://github.com/vbeats) 🍉
 ![RocketMQ](https://img.shields.io/badge/-rocketMQ-D77310?logo=apache%20rocketmq&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-kafka-231F20?logo=apache%20kafka&logoColor=white)
 ![Etcd](https://img.shields.io/badge/-etcd-419EDA?logo=etcd&logoColor=white)
+![Kali](https://img.shields.io/badge/-Kali-557C94?logo=kali%20linux&logoColor=white)
 
 ![Fluentd](https://img.shields.io/badge/-fluentd-0E83C8?logo=fluentd&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
@@ -44,8 +45,10 @@ Open Source Project Maintainer [vbeats](https://github.com/vbeats) 🍉
 ![Kibana](https://img.shields.io/badge/-kibana-005571?logo=kibana&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Serverless](https://img.shields.io/badge/-Serverless-FD5750?logo=serverless&logoColor=white)
 ![Rancher](https://img.shields.io/badge/-Rancher-0075A8?logo=rancher&logoColor=white)
 ![K8S](https://img.shields.io/badge/-k8s-326CE5?logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=Grafana&logoColor=white)
 
@@ -56,6 +59,7 @@ Open Source Project Maintainer [vbeats](https://github.com/vbeats) 🍉
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
 ![MiniProgram](https://img.shields.io/badge/-MiniProgram-07c160?logo=wechat&logoColor=white)
 ![Antd](https://img.shields.io/badge/-Antd-0170FE?logo=ant%20design&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?logo=nuxt.js&logoColor=white)
 
 </p>
