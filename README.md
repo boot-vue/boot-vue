@@ -1,6 +1,6 @@
 <div align=center>
 
-<img alt="Yiyang Sun" src="./logo.png" width=100 />
+<img alt="bootvue" src="./logo.png" width=100 />
 
 # Handsome boy 👋
 
