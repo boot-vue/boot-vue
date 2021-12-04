@@ -7,7 +7,7 @@
 <p>
 
 [![Bilibili](https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=bilibili&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D95121892)](https://space.bilibili.com/95121892)
-[![Github Stars](https://img.shields.io/github/stars/boot-vue?color=faf408&label=github%20stars&logo=github)](https://github.com/boot-vue)
+[![Github Stars](https://img.shields.io/github/followers/boot-vue?color=faf408&label=github%20stars&logo=github)](https://github.com/boot-vue)
 
 </p>
 
