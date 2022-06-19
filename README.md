@@ -65,14 +65,3 @@ Open Source Project Maintainer [vbeats](https://github.com/vbeats) 🍉
 </p>
 
 😯😯😯🚀🚀🚀💥💥💥⭕️⭕️❌❌ 
-
-  <h1>vcloud</h1>
-  <img src="https://repobeats.axiom.co/api/embed/bcc13c891feb0f603833dcea3221fc9d3cde40f6.svg" />
-  
-  <h1>vdashboard</h1>
-  <img src="https://repobeats.axiom.co/api/embed/3788260d838e50a1eab4e4107eeb02d29a0c8139.svg" />
-  
-  <h1>vgo</h1>
-  <img src="https://repobeats.axiom.co/api/embed/49486021f77472fae875ae23605bac322be358ca.svg" />
-
-</div>
